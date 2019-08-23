@@ -1,0 +1,10 @@
+com\schoolChase\model\Mhs.class
+com\schoolChase\model\Dosen.class
+com\schoolChase\repository\MhsRepository.class
+com\schoolChase\controller\MhsController.class
+com\schoolChase\exception\ResourceNotFoundException.class
+com\schoolChase\repository\DosenRepository.class
+com\schoolChase\Application.class
+com\schoolChase\controller\DosenController.class
+com\schoolChase\exception\GlobalExceptionHandler.class
+com\schoolChase\exception\ErrorDetails.class
